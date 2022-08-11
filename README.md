@@ -1,2 +1,5 @@
 # Javascript-API
-Projeto em Desenvolvimento :: Consumindo e tratando dados de uma API
+
+>Status do Projeto: Projeto Finalizado
+
+Consumindo e tratando dados de uma API
